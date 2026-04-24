@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0B0E14"> <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GALAXY ULTRA BOT V3.0"
+        android:textColor="#00FFFF"
+        android:textSize="24sp"
+        android:fontFamily="monospace"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_centerInParent="true"
+        android:text="ACTIVAR 235 FUNCIONES"
+        android:backgroundTint="#FF00FF"
+        android:textColor="#FFFFFF" />
+        
+</RelativeLayout>
