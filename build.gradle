@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.galaxy.driver'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.galaxy.driver"
+        minSdk 24
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+}
